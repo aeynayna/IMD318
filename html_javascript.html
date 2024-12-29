@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>HTML Javascripts</title>
+</head>
+<body>
+
+	<center><iframe src="https://free.timeanddate.com/clock/i9offs1i/n122/tlmy/fn10/fs16/ftb/tt0/tw1/tm2/th2/ts1/tb4" frameborder="0" width="300" height="40"></iframe></center>
+
+	<iframe src="https://free.timeanddate.com/clock/i9offs1i/n122/tlmy/fn10/fs16/ftb/tt0/tw1/tm2/th2/ts1/tb4" frameborder="0" width="142" height="37" align="right"></iframe>
+
+	<h2>Javascript help change the content</h2>
+	<p id="content">I am using javascript to change the content</p>
+
+	<button type="button" onclick='document.getElementById("content").innerHTML ="Hello Javascript!"'>change the content</button>
+
+	<h2>Javascript help change the style</h2>
+	<p id="style1">I am using javascript to change the style of my content</p>
+
+	<script>
+		function myStyle()
+		{
+			document.getElementById("style1").style.fontSize="45px";
+			document.getElementById("style1").style.fontFamily="georgia";
+			document.getElementById("style1").style.color="brown";
+			document.getElementById("style1").style.backgroundColor="beige";
+		}
+	</script>
+
+	<button type="button" onclick="myStyle()">Click Here darls~</button>
+
+	<h2>Javascript change the attributes @ image manipulation</h2>
+
+	<script>
+		function baby(a)
+		{
+			var pic;
+			if (a==0)
+			{
+				pic="images/athea.png"
+			}
+			else
+			{
+				pic="images/sofea.png"
+			}
+			document.getElementById('gambar').src=pic;
+		}
+	</script>
+
+	<img src="images/athea.png" id="gambar" width="250" height="350">
+
+	<p>
+		<button type="button" onclick="baby(1)">Hm majuk!!!</button>
+		<button type="button" onclick="baby(0)">tanak kawan!!!</button>
+	</p>
+
+	<h2>Popup Window: Alert Box</h2>
+
+	<button onclick="myAlertBox()">Click Here</button>
+
+	<script>
+		function myAlertBox()
+		{
+			alert("Hi darls. \n Welcome to my humble page.")
+		}
+	</script>
+
+	<script>
+		{
+			alert("Hi darls. \n Welcome to my humble page")
+		}
+	</script>
+
+
+</body>
+</html>

@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"light",
+				"lightsalmon"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"dar",
+				"darkgoldenrod"
+			],
+			[
+				"sk",
+				"lightskyblue"
+			],
+			[
+				"brown",
+				"sandybrown"
+			],
+			[
+				"pink",
+				"deeppink"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HONOR/Desktop/IMD318/html_class/html_forms.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/Ex6_Table.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/ex6_part2.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/html_table.html",
+		"/C/Users/HONOR/Desktop/IMD318 CLASS/html_class_5c/ex5_list.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/html_multimedia.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/html_list.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/html_images.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/html_colours.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/html_exercise2.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/html_quotation.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/html_formatting.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/html_style.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/basic_animals.html",
+		"/C/Users/HONOR/Desktop/5C IMD318/html_class/basic_animals",
+		"/C/Users/HONOR/Desktop/5C IMD318/html_class/exercise1_basic_animals",
+		"/C/Users/HONOR/Desktop/WNAINA_2022813878/ex1_basic_HTML/Basic_Animals.HTML",
+		"/C/Users/HONOR/Desktop/IMD318/ex1_Basic_HTML/basic_structure.html",
+		"/C/Users/HONOR/Desktop/IMD318/html_class/basic_structure.html",
+		"/C/MAMP/food ordering system.php"
+	],
+	"find":
+	{
+		"height": 38.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.4
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "basic_structure.sublime-project",
+	"replace":
+	{
+		"height": 73.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>HTML Table</title>
+
+	<style>
+		table, tr, th, td
+		{
+			border: 2px solid pink;
+			border-collapse: collapse;
+		}
+		th, td
+		{
+			padding: 30px;
+		}
+		th 
+		{
+			background-color: hotpink;
+			color: yellow;
+		}
+		tr:nth-child(odd)
+		{
+			background-color: blueviolet;
+			color: yellow;
+		}
+		tr:nth-child(even)
+		{
+			background-color: skyblue;
+		}
+		td
+		{
+			text-align: center;
+		}
+		td:hover
+		{
+			background-color: lightsalmon;
+		}
+	</style>
+
+</head>
+<body>
+
+	<h1>Basic table</h1>
+
+	<table style="width: 90%;">
+		<caption>Table 1: Basic HTML Table</caption>
+		<tr>
+			<th style="width:20%">Name</th>
+			<th style="width:30%">Student ID</th>
+			<th style="width:25%">Picture</th>
+			<th style="width:15%">Phone Num</th>
+		</tr>
+
+		<tr style="height:250px">
+			<td>Aina</td>
+			<td>2022813878</td>
+			<td><img src="images/cloud.jpg" style="height: 100px;"></td>
+			<td>1234567890</td>
+		</tr>
+
+		<tr>
+			<td>Aina</td>
+			<td>2022813878</td>
+			<td><img src="images/cactus.webp" style="height: 100px;"></td>
+			<td>1234567890</td>
+		</tr>
+	</table>
+
+	<h1>Colspan</h1>
+
+	<table style="width: 100%">
+		
+		<tr>
+			<th>Name</th>
+			<th>Student ID</th>
+			<th colspan="3">Subject</th>
+		</tr>
+
+		<tr>
+			<td>Aina</td>
+			<td>12345678</td>
+			<td>imd318</td>
+			<td>imd2345</td>
+			<td>1234</td>
+		</tr>
+	</table>
+
+	<h1>Rowspan</h1>
+
+	<table style="width:70%">
+
+		<tr>
+			<th>name</th>
+			<td>Aina</td>
+		</tr>
+		
+		<tr>
+			<th rowspan="2">email</th>
+			<td>aina@gmail</td>
+		</tr>
+
+		<tr>
+			<td>aina@gmail.com</td>
+		</tr>
+
+		<tr>
+			<th>alamat</th>
+			<td rowspan="2">kelantan</td>
+		</tr>
+
+		<tr>
+			<th>Alamat surat</th>
+		</tr>
+	</table>
+
+
+</body>
+</html>
